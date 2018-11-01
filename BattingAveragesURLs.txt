@@ -1,0 +1,5 @@
+http://stats.espncricinfo.com/indian-premier-league-2014/engine/records/averages/batting.html?id=8827;type=tournament
+http://stats.espncricinfo.com/indian-premier-league-2015/engine/records/averages/batting.html?id=9657;type=tournament
+http://stats.espncricinfo.com/indian-premier-league-2016/engine/records/averages/batting.html?id=11001;type=tournament
+http://stats.espncricinfo.com/indian-premier-league-2017/engine/records/averages/batting.html?id=11701;type=tournament
+http://stats.espncricinfo.com/indian-premier-league-2018/engine/records/averages/batting.html?id=12210;type=tournament
