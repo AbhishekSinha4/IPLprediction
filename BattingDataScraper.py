@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import csv
 
-urlList = [url.rstrip('\n') for url in open("battingAveragesURLs.txt", "r")]    
+urlList = [url.rstrip('\n') for url in open("BattingAveragesURLs.txt", "r")]    
 #Reading all URLs into a list from an input text file (a url per line) and stripping them of '\n's 
 headerNeeded=1
 finalData=[]
