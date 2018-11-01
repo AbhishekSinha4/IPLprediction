@@ -8,7 +8,7 @@ import pandas as pd
 itr=0
 player_values=[]
 links=[]
-with open("Links.txt") as f:
+with open("BowlingAveragesURLs.txt") as f:
     links=f.readlines()
     links = list(map(lambda x:x.rstrip("\n"),links))
     
@@ -45,4 +45,5 @@ for i in links:
     itr+=1
         
 bowlerdf = pd.DataFrame(player_values, columns=headers)
-print(bowlerdf.head())
+
+bowlerdf.to_csv("BowlingAveragesData.csv", sep='\t')
