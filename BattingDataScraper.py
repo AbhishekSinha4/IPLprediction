@@ -37,7 +37,7 @@ for url in urlList:
         statDataRows[i].append(url.split('/')[3].split('-')[3])
     finalData.extend(statDataRows)                      #Appending all of this Pages' data to the Final Data List
 
-with open("battingAveragesData.csv", "w", newline='') as f:         #Writing the data scraped into a persistent Datafile in csv format
+with open("BattingAveragesData.csv", "w", newline='') as f:         #Writing the data scraped into a persistent Datafile in csv format
     writer = csv.writer(f)
     writer.writerows(finalData)
 f.close()                                               #Closing the file 
