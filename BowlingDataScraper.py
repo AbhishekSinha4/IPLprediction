@@ -46,4 +46,4 @@ for i in links:
         
 bowlerdf = pd.DataFrame(player_values, columns=headers)
 
-bowlerdf.to_csv("BowlingAveragesData.csv", sep='\t')
+bowlerdf.to_csv("BowlingAveragesData.csv")
