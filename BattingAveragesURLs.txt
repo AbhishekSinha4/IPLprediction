@@ -1,3 +1,6 @@
+http://stats.espncricinfo.com/indian-premier-league-2011/engine/records/batting/most_runs_career.html?id=5969;type=tournament
+http://stats.espncricinfo.com/indian-premier-league-2012/engine/records/averages/batting.html?id=6680;type=tournament
+http://stats.espncricinfo.com/indian-premier-league-2013/engine/records/averages/batting.html?id=7720;type=tournament
 http://stats.espncricinfo.com/indian-premier-league-2014/engine/records/averages/batting.html?id=8827;type=tournament
 http://stats.espncricinfo.com/indian-premier-league-2015/engine/records/averages/batting.html?id=9657;type=tournament
 http://stats.espncricinfo.com/indian-premier-league-2016/engine/records/averages/batting.html?id=11001;type=tournament
